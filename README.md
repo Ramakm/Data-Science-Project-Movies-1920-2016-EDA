@@ -1,7 +1,10 @@
 # DataScience-Project-Movie_Data_Visualization-1920-2016
-This project is all about the movies ever produced in all languages from 1920 to 2016. Covered most of the movies.
 
-## Attaching the visualtions Used in this projects 
+This project is all about the movies ever produced in all languages from 1920 to 2016. Covered most of the movies.
+The data set is also attached for your reference. if you want to add or modify anyhting welcome to do it.
+
+
+## Attaching the visualtions Used in this project
 ```
 plt.title("Most Common Movie Ratings on IMDB", size = 15, color = "blue")
 plt.xlabel("IMDB_Ratings", color = "blue")
